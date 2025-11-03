@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Teleprompter",
+  "description": "A cross-platform teleprompter app with voice control, remote access, script management, and AI features like summarization and translation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
